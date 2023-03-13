@@ -61,9 +61,10 @@ th, td {
 	text-align: center;
 }
 table {
-	width: 100%;
 	border-collapse: collapse;
 	text-align: center;
+	margin: 0 auto;
+	width: 50%;
 }
 ol, li {
 	color: white;
